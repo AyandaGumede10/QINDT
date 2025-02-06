@@ -4,12 +4,12 @@ const Home = () => {
   return (
     <>
      {/* Welcome Section */}
-     <div className="text-left" style={{fontFamily: "Segoe UI", fontWeight: "lighter",padding:"3%", color: "white"}} id="front-area">
-            <h2 className="text-4xl font-semibold" style={{fontFamily: "Segoe UI", fontWeight: "lighter", paddingTop: "12%"}}>Welcome to</h2>
-            <h1 className="text-6xl font-bold text-blue-600" style={{fontFamily: "Arial", paddingTop: 19}} >
+     <div className="text-left" style={{fontFamily: "Segoe UI", fontWeight: "lighter", padding:"4%", color: "white"}} id="front-area">
+            <h2 className="text-4xl font-semibold" style={{fontFamily: "Segoe UI", fontWeight: "lighter", paddingTop: "10%"}}>Welcome to</h2>
+            <h1 className="text-6xl font-bold text-gray-400" style={{fontFamily: "Arial"}} >
               Quality Inspection & NDT Services
             </h1>
-            <p className="mt-4 text-lg leading-relaxed">
+            <p className="mt-4 text-lg leading-relaxed" style={{paddingBottom: "5%"}}>
               At Quality Inspection and NDT Services, we are committed to delivering precise and reliable Non-Destructive Testing (NDT) and inspection solutions across a wide range of industries, including Rail, Petrochemical, Marine, Mining, Paper & Pulp, Energy, and Sugar. Established in 2025, we specialize in ensuring the integrity and safety of assets through our tailored inspection services.
               As a BBBEE Level 1 contributor, we actively support diversity and empowerment, with a focus on fostering growth opportunities for previously disadvantaged individuals within our industry. Our team, with deep expertise in NDT and engineering, is dedicated to providing solutions that meet the highest standards of quality, safety, and compliance.
               Trust Quality Inspection and NDT Services to be your reliable partner in maintaining the performance and longevity of your operations.
@@ -81,13 +81,8 @@ const Home = () => {
           {/* Image Area (Placeholder) */}
           <div className="w-full h-48 bg-gray-200" id="bg-image"></div>
 
-          {/* Horizotal Ruler */}
-          <hr className="border-t-2 border-gray-300 my-4 w-full" />
-
-
           {/* Footer */}
           <div className="text-gray p-6 rounded-md text-center" >
-            <h1 className="text-4xl font-bold mb-4" style={{fontFamily: "Segoe UI", fontWeight: "lighter"}}>Get in touch with us</h1>
             <p className="text-lg">
               Cellphone: 0827772482 | Email:{" "}
               <a

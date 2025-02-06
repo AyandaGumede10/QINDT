@@ -113,11 +113,8 @@ const Services = () => {
         <div className="w-full h-48 bg-gray-200" style={{height: "60vh", marginBottom: "2%"}} id="services-footer-image"></div>
 
 
-
-        <hr className="border-t border-gray-400 mb-12"/>
         
         <div className="text-center" style={{fontFamily: "Segoe UI", fontWeight: "lighter", fontSize: "19px", paddingBottom: "3%"}}>
-          <h2 className="text-3xl font-lighter mb-4" >Contact Us</h2>
           <p className="text-gray-700 mb-4">Need professional NDT services? Get in touch with us today.</p>
           <p className="text-gray-700 mb-4">
             Cellphone: <a href="tel:0827772482" className="text-blue-600 hover:text-blue-800">0827772482</a> | 

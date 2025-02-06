@@ -108,8 +108,6 @@ const About = () => {
        {/*  image area */}
         <div id="about-bg-image" className="w-full h-48 bg-gray-200"></div>
         
-        <hr className="border-t-1 border-gray-500 my-4 w-full" />
-
         {/* Footer */}
         <footer className="text-gray p-8 rounded-lg text-center" >
           <h1 className="text-xl font-bold mb-4 " style={{fontFamily: "Segoe UI", fontWeight: "lighter", fontSize: "31px"}}>Get in touch with us</h1>
