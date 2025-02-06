@@ -1,0 +1,10 @@
+#about-bg-image {
+    width: 100%;
+    height: 80vh;
+    margin-bottom: 5%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7)), url("../images/I5.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
