@@ -2,6 +2,7 @@
   "name": "qindt",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://ayandagumede10.github.io/QINDT",
   "type": "module",
   "scripts": {
     "dev": "vite",

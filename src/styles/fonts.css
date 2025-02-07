@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Segoe UI Local';
+    src: local('Segoe UI Light'),
+         local('SegoeUI-Light');
+    font-weight: lighter;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Segoe UI Local';
+    src: local('Segoe UI'),
+         local('SegoeUI');
+    font-weight: lighter;
+    font-style: normal;
+  }

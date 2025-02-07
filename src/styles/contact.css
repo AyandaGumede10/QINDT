@@ -1,12 +1,7 @@
-*{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-weight: lighter;
-}
-
 #contact-background-image{
     width: auto;
-    height: 104.7vh;
-    margin-top: -8%;
+    height: 90vh;
+    margin-top: -1%;
     background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7)), url("../images/ndt.jpg");
     background-repeat: no-repeat;
     background-position: center center;
